@@ -1,8 +1,7 @@
-## Tag Topics Wisely
+## Do Not Bump Posts
 
-Tags are a great way to help others find related support requests, and to help developers keep track of specific features.
+Do not [bump](https://en.wikipedia.org/wiki/Internet_forum#Bumping) posts. Bumping a post to “the top” does not help a topic get noticed. The volunteers who try to answer questions look for those without replies first. If someone bumps a post, then it disappears from the ‘No Replies’ view.
 
-Be considerate of this when tagging topics. The tag “REST API” would be a great for a topic about the REST API, while “rest” is common and largely unrelated English word and therefore not a great tag choice. Avoid very general tags, like “WordPress” and “problem.” Searching first is a great way to see what tags are being used by others with similar problems.
+We have a [list of threads without replies](https://wordpress.org/support/view/no-replies). When a post is bumped, it becomes harder for it to be discovered and reduces the chances of getting appropriate help. Some forum helpers use that list to prioritise over other answered threads.
 
-Tags should be separated by commas.
-
+Moderators will delete bumps they find. This is in order to help posts get back into the No Replies listing, where they are more likely to get an answer.

@@ -1,5 +1,5 @@
-## Posting Large Excerpt of Code
+## Closing Posts
 
-When a large amount of code needs to be posted, it can make a thread difficult to read. If, for example, an entire php, css, or JS file needs to be posted, it should be posted on a service such as [Pastebin](http://pastebin.com/) or [Gist](https://gist.github.com/) and linked in the post.
+Posts are *automatically* closed after 12 months, if there are no new replies. We also reserve the right to close posts that are deemed non-productive to the community.
 
-As for what constitutes a large excerpt, it’s difficult to say. It is generally easier to read a pastebin/gist than a styled block of 150 lines of multi-indented code. Scrolling back and forth, as well as up and down, trying to unpick code via a cramped code box is a time-consuming activity that distracts from answering the actual questions.
+While many times non-productive posts are deleted, sometimes they have some relevance and instead are closed so the information remains, but discussion can no longer be furthered. This includes, but is not restricted to, posts on the following topics: Hosting recommendations (for or against), off topic conversations (i.e. non-WordPress), old/outdated topics, clearly resolved topics, excessive rudeness or antagonism, and requests for paid support.

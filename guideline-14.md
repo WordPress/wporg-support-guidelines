@@ -1,7 +1,9 @@
-## Do Not Offer to Work For Hire
+## Contacting the Moderators
 
-Don’t offer to work for hire in replies on these forums. Help on the forums should be given freely, as in beer.
+If a post needs moderator attention, use the tag `modlook`
 
-The [WP Jobs](http://jobs.wordpress.net/) board is available for those seeking to find jobs.
+If moderator help is needed in a different manner, the `#forums` channel is available in [slack](https://make.wordpress.org/chat/).
 
-We believe that people should be able to make a living based on WordPress, but the support forums are not the appropriate place for that.
+Following moderators 'home' and sending them unsolicited email is harassment. Moderators are people too and name calling because they won’t delete a post (or did delete one) is not welcome.
+
+Threatening legal actions against moderators is a sure way to get yourself banned from the forums.

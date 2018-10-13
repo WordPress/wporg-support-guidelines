@@ -1,3 +1,9 @@
-## Avoid Signatures
+## Do Not Post About Commercial Products
 
-As everyone’s username and gravatar is listed alongside their post, it is unnecessary to provide a signature in the WordPress forums. Signatures will be removed by moderators.
+For support of commercial themes or plugins, go to the official support channel.
+
+In order to be good stewards of the WordPress community, and encourage innovation and progress, we feel it’s important to direct people to those official locations. Doing this will provide the developer with the income they need to make WordPress awesome.
+
+Forum volunteers are also not given access to commercial products, so they would not know why a commercial theme or plugin is not working properly.
+
+Ultimately, the vendors are responsible for supporting their commercial product.

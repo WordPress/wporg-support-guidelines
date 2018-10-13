@@ -1,3 +1,5 @@
-## Post Code Safely
+## Forum Chat
 
-Posting code in the forums can be tricky. In order for it to be formatted properly, the code must be enclosed in backticks (`). To do this, highlight the code in the editor and click on the “code” button. This feature behaves like blockquotes, and there is no need to mark each individual line.
+The `#forums` channel on [slack](https://make.wordpress.org/chat/) is available for anyone to come and post questions about handling questions on the forums, or about moderator.
+
+The channel is for discussing issues with the support forum itself, not posting about specific problems with WordPress. It’s primarily used by forum moderators and other regular volunteers for discussion of code and behavioral issues on the forums.

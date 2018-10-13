@@ -1,5 +1,5 @@
-## Do Not Advertise or Promote Products
+## Do Not Open Multiple Accounts (Sockpuppets)
 
-The forums are here for providing users with a venue to get help with problems. Intentionally we do not have any sections for promoting plugins, themes, services and similar.
+Do not open multiple accounts, aka [sockpuppets](https://en.wikipedia.org/wiki/Sockpuppet_(Internet)). Sockpuppetry is often used for nefarious reasons, and as such we ask that you simply don’t do it. If a sockpuppet account is identified, it will be [banned](https://make.wordpress.org/support/handbook/forum-welcome/#being-mod-watched-or-banned) immediately.
 
-Do not create topics with the intent of promoting any of the above. They will be deleted and accounts will be moderated.
+If you are plugin or theme developer, or a representative of a company involved with WordPress in some way (like a hosting provider), having separate personal and “business” accounts is acceptable, we don’t consider that to be sockpuppetry.
