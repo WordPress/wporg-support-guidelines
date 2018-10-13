@@ -1,5 +1,3 @@
-## Choose A Good Topic Title
+## Warn About Adult Content
 
-Use an appropriate title when making a new topic.
-
-“Database error creating a new post with Plugin Foobar Active” is a good title. “URGENT HELP PLS!!!” is not a good title. A good title can be the difference between getting help and not.
+Some sites contain content that is not suitable for a general audience or for viewing while at work. To avoid creating problems for anyone who is trying to help, please add [NSFW](https://en.wikipedia.org/wiki/Not_safe_for_work) to the topic title of the post, as well as tag the post NSFW, as a warning if a site falls into this category. Err on the side of caution. Some volunteers here work for banks.

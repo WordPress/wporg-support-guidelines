@@ -1,7 +1,7 @@
-## Link to The Site
+## Do Not Offer to Work For Hire
 
-If a question relates to a specific site or page, and the site is publicly viewable, provide a link. This will allow people to see the issue and often leads to faster resolutions.
+Don’t offer to work for hire in replies on these forums. Help on the forums should be given freely, as in beer.
 
-The forum is not designed to be a link portal; excessive linkage will be moderated, as will signatures or links with no associated question.
+The [WP Jobs](http://jobs.wordpress.net/) board is available for those seeking to find jobs.
 
-**Links will *not* get removed any time later, unless in extreme circumstances.** Google will capture links, so if that is a concern, please don’t link.
+We believe that people should be able to make a living based on WordPress, but the support forums are not the appropriate place for that.
