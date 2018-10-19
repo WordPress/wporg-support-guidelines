@@ -2,14 +2,15 @@ Every forums system is a little different.
 
 [last updated alert here]
 
-## How do I make an account?
-
+## How do I create an account?
+In order to post or comment in this forum, you first need to have an account at WordPress.org. You can register at https://login.wordpress.org/register
+If you already have an account, then please bear in mind that we strongly don't want anyone to actively use more than one account in parallel (unless they have a really good reason to do it).
 
 ## How do I find if my problem is already solved?
 
-You can search the forums for an answer before you post. All of WordPress.org has been indexed by [Google](http://www.google.com/), so if a forum search doesn’t result in answers, check in Google too (e.g. Google for [site:wordpress.org/support widget](https://www.google.com/search?hl=en&q=site%3Awordpress.org%2Fsupport%20widget&gws_rd=ssl)).
+You can search the forums for an answer before you post. All of WordPress.org has been indexed by [Google](http://www.google.com/), so if a search directly in the forum doesn’t result in answers, check in Google too (e.g. Google for [site:wordpress.org/support widget](https://www.google.com/search?hl=en&q=site%3Awordpress.org%2Fsupport%20widget&gws_rd=ssl)).
 
-If the only topics are similar, but not exact, go ahead and make your own post so you can get individual help.
+If the topics you find don’t help you, go ahead and make your own post so you can get individual help.
 
 ## I have the same problem! Can I just reply to someone else's post with "Me too"?
 
@@ -27,9 +28,9 @@ Please only post once, so the volunteers don't get spread too thin trying to ans
 
 To post support questions for specific themes or plugins, visit the WordPress.org directory page for the theme/plugin first (i.e. [Hello Dolly](https://wordpress.org/plugins/hello-dolly/)) and click on the support link to create a post. This will make it more visible to the author and making it more clear what the post is about.
 
-## What do I title my post?
+## What do I put in the title my post?
 
-A descriptive title is best, as that will attract people who think they may know the answer right away. Generic titles are
+A descriptive title is best, as that will attract people who think they may know the answer right away. Generic titles are much less effective.
 
 “Database error creating a new post with Plugin Foobar Active” is a great title. “URGENT HELP PLS!!!” is less so.
 
@@ -37,7 +38,7 @@ A descriptive title is best, as that will attract people who think they may know
 
 Include details about the hosting environment, WordPress install (plugins, themes, etc.), and the problem being faced when posting a topic.
 
-If there are errors, copy them word for word into the post. It’s best to include the full error than to summarize – sometimes wording is important. If a plugin was activated or a setting changed immediately before the error occurred, mention that and, if possible, exactly what steps were taken.
+If there are errors, copy them exactly, word for word, into the post. It’s best to include the full error than to summarize – sometimes wording is important. If a plugin was activated or a setting changed immediately before the error occurred, mention that and, if possible, exactly what steps were taken.
 
 Be careful not to leak any privileged information (like your real name or email) if you're not okay with those being public.
 
@@ -45,7 +46,7 @@ Be careful not to leak any privileged information (like your real name or email)
 
 If you can, yes. When a question relates to a specific site or page, and the site is publicly viewable, a link makes things faster to solve. This will allow people to see the issue and often leads to faster resolutions.
 
-Keep in mind, **links will *not* get removed any time later, unless in extreme circumstances.** Google will capture links, so if that is a concern, please don’t link.
+Keep in mind, **links will *not* get removed any time later, unless in extreme circumstances.** Google will capture posts, including any available links within minutes, so if that is a concern to you, please don’t link.
 
 If you include the link in the field for "Link" in your original post, it will only be shown to logged in users, and Google _will not_ capture it.
 
@@ -57,7 +58,7 @@ Yes, but screenshots and videos _cannot_ be uploaded. They can be linked to from
 
 The same as in your website, tags are ways we use to organize posts to attract the right helpers. They can be used to allow developers keep track of specific features, as well as the volunteer moderators to recognize repeat issues and escalate to core devs if needed.
 
-That means your tags should be chosen wisely and carefully. The tag “REST API” would be a great for a topic about the REST API, while “rest” is common and largely unrelated English word and therefore not a great tag choice. You should avoid very general tags, like “WordPress” and “problem.”
+That means your tags should be chosen wisely and carefully. The tag “REST API” would be a great for a topic about the REST API, while “rest” is common and largely unrelated English word and therefore not a great tag choice. Avoid very general tags, like “WordPress” and “problem” that don't add any value.
 
 Tags should be separated by commas.
 
@@ -75,19 +76,19 @@ Users can edit a post for up to 60 minutes from the time of submission. After th
 
 ## Why did a moderator edit my post?
 
-Moderators will edit posts when it's required. If someone uses vulgarities, posts private information (like real names and emails), or otherwise violates the guidelines, we will clean up the post. We also may edit a post to fix code samples, or correct a typo that completely changes the meaning of the post.
+Moderators will edit posts when it's required. If someone uses vulgarities, posts private information (like emails or passwords), or otherwise violates the guidelines, we will clean up the post. We also may edit a post to fix code samples, or correct a typo that completely changes the meaning of the post.
 
 ## No one's answered my post. Can I bump?
 
-No. [Bumping](https://en.wikipedia.org/wiki/Internet_forum#Bumping) (moving your own post to the top of the forums) actually is bad because it makes your post harder to find, and implies someone's replied and helped you.
+Please don't. [Bumping](https://en.wikipedia.org/wiki/Internet_forum#Bumping) (moving your own post to the top of the forums) actually makes your post harder to find for the volunteers, since it will look as if someone has already replied and tried to help you.
 
-We have a whole section for ['unanswered' posts](https://wordpress.org/support/view/no-replies). When you bump, you remove yourself from that list, which causes people to assume someone did help you out (or you solved the problem on your own). The best thing to do is be patient and wait. Remember, this is a volunteer forum!
+We have a whole section for ['unanswered' posts](https://wordpress.org/support/view/no-replies). If you bump, you remove yourself from that list. The best thing to do is be patient and wait. Remember, this is a volunteer forum!
 
 ## How do I find my posts?
 
 A list of all posts and replies you've made can be found on you profile: `https://wordpress.org/support/users/YOURID/`
 
-All logged in users can click on the “Howdy, Your Name” link found on the sidebar for immediate access.
+When you're logged in, you can click on the “Howdy, Your Name” link found in the top bar for immediate access.
 
 ## How do I mark my post as solved?
 
@@ -109,11 +110,13 @@ Generally we will not. Google already scraped the content, so even if we DID del
 
 ## Why was my post closed?
 
-Posts (including reviews) are *automatically* closed after 12 months, if there are no new replies. They cannot be reopened.
+Posts (including reviews) are *automatically* closed after a certain period of inactivity (currently 6 months). They cannot be reopened.
 
-In addition, posts are closed if they've become non-productive to the community. By this we mean if someone's violating the guidelines (using the forums as a blog, arguing about world politics, vulgarity, attacking people, etc), we may close the post to prevent further escalation. We also will close posts that have gone too far off topic to be recovered.
+In addition, posts can be closed by a moderator if they've become non-productive to the community. By this we mean if someone's violating the guidelines (using the forums as a blog, arguing about world politics, vulgarity, attacking people, etc), we may close the post to prevent further escalation. We also will close posts that have gone too far off topic to be recovered.
 
 In those cases, a moderator will normally explain why the post has been closed, and direct people who are still trying to find help in what they can do next.
+
+Moderators also often will close "Release notes" for replies.
 
 ## Why did a post disappear?
 
@@ -125,7 +128,7 @@ We try not to delete useful posts, but if there are legal issues, or harassment 
 
 You can report the post by using the "Report" button found on the sidebar of every forum post. That alerts the moderators that their attention is needed.
 
-Please don't abuse this. It's meant for issues in that post only, not general personal issues.
+Please don't abuse this. It's meant for issues in that post only, not for general personal issues.
 
 ## Someone posted lies about me/my plugin/theme. Will you delete/edit the post?
 
