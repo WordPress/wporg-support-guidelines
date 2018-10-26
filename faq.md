@@ -51,7 +51,7 @@ If you include the link in the field for "Link" in your original post, it will o
 
 ## Can I include screenshots or videos?
 
-Yes, but screenshots and videos _cannot_ be uploaded. They can be linked to from places like [Imgur] (https://imgur.com),  [CloudUp](https://cloudup.com/) or [YouTube](https://youtube.com).
+Yes, but screenshots and videos _cannot_ be uploaded. They can be linked to from places like [Imgur](https://imgur.com), [CloudUp](https://cloudup.com/) or [YouTube](https://youtube.com).
 
 ## How do Tags work?
 
