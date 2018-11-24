@@ -8,9 +8,9 @@ If you're new to posting, please read the [FAQ](https://make.wordpress.org/suppo
 
 Above all, users are expected to be kind, helpful, and respectful. Assume the best of people and try to make things better. Beyond just seeking solutions, users are encouraged to help others. If they know the answer to someone else's question, it is greatly appreciated that they offer assistance. This is by no means mandatory, and no one is compelled to help anyone else.
 
-Guideline violations will result in posting access being restricted by first being flagged for moderation. This will require a moderator to approve a user's posts. This restriction is meant to be temporary, and will be lifted when the moderators feel the situation has been resolved. If a user cannot follow the guidelines after that, their account will be blocked from posting. Further sactions (such as restricting access to WordPress.org as a whole) can and will be applied if necessary.
+Guideline violations will result in posting access being restricted by first being flagged for moderation. This will require a moderator to approve a user's posts. This restriction is meant to be temporary, and will be lifted when the moderators feel the situation has been resolved. If a user cannot follow the guidelines after that, their account will be blocked from posting. Further actions (such as restricting access to WordPress.org as a whole) can and will be applied if necessary.
 
 ## Contacting the Moderators
 
-If a post needs moderator attention, there is a 'report post' button on every thread. That will add the post to a queue moderators watch and follow up with many times a day. If immediate action is needed, or the situation is not in a specific post, users should come to [Slack](http://chat.wordpress.org) and post in the `#forums` channel.
+If a post needs moderator attention, there is a 'report post' button on every thread. That will add the post to a queue moderators watch and follow up with many times a day. If immediate action is needed, or the situation is not in a specific post, users should come to [Slack](http://make.wordpress.org/chat) and post in the `#forums` channel.
 
