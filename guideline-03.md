@@ -1,3 +1,7 @@
-## Warn About Adult Content
+## Do Not Bump Posts
 
-Some sites contain content that is not suitable for a general audience or for viewing while at work. To avoid creating problems for anyone who is trying to help, please add [NSFW](https://en.wikipedia.org/wiki/Not_safe_for_work) to the topic title of the post, as well as tag the post NSFW, as a warning if a site falls into this category. Err on the side of caution. Some volunteers here work for banks.
+Do not [bump](https://en.wikipedia.org/wiki/Internet_forum#Bumping) posts. Bumping a post to “the top” does not help a topic get noticed. The volunteers who try to answer questions look for those without replies first. If someone bumps a post, then it disappears from the ‘No Replies’ view.
+
+We have a [list of threads without replies](https://wordpress.org/support/view/no-replies). When a post is bumped, it becomes harder for it to be discovered and reduces the chances of getting appropriate help. Some forum helpers use that list to prioritise over other answered threads.
+
+Moderators will delete bumps they find. This is in order to help posts get back into the No Replies listing, where they are more likely to get an answer.

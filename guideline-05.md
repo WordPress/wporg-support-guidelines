@@ -1,5 +1,7 @@
-## Do Not Offer to Pay for Help
+## Do Not Offer to Work For Hire
 
-Any thread that offers any service for money can be closed at any time. We are not against paid services but these forums are not the right place for them.
+Don’t offer to work for hire in replies on these forums. Help on the forums should be given freely, as in beer.
 
-People may seek professional WordPress support from [WP Jobs](http://jobs.wordpress.net/).
+The [WP Jobs](http://jobs.wordpress.net/) board is available for those seeking to find jobs.
+
+We believe that people should be able to make a living based on WordPress, but the support forums are not the appropriate place for that.

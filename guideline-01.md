@@ -1,3 +1,3 @@
-## Avoid Signatures
+## Warn About Adult Content
 
-As everyone’s username and gravatar is listed alongside their post, it is unnecessary to provide a signature in the WordPress forums. Signatures will be removed by moderators.
+Some sites contain content that is not suitable for a general audience or for viewing while at work. To avoid creating problems for anyone who is trying to help, please add [NSFW](https://en.wikipedia.org/wiki/Not_safe_for_work) to the topic title of the post, as well as tag the post NSFW, as a warning if a site falls into this category. Err on the side of caution. Some volunteers here work for banks.
