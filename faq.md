@@ -28,6 +28,8 @@ Please only post once, so the volunteers don't get spread too thin trying to ans
 
 To post support questions for specific themes or plugins, visit the WordPress.org directory page for the theme/plugin first (i.e. [Hello Dolly](https://wordpress.org/plugins/hello-dolly/)) and click on the support link to create a post. This will make it more visible to the author and making it more clear what the post is about.
 
+If your site uses the hosted version over at WordPress.com instead of WordPress.org, please post in the [forums designated for WordPress.com sites](https://en.forums.wordpress.com), where you'll be able to receive help regarding your issue. If you're not certain which version your site uses, feel free to [compare the differences](https://en.support.wordpress.com/com-vs-org/).
+
 ## What do I put in the title my post?
 
 A descriptive title is best, as that will attract people who think they may know the answer right away. Generic titles are much less effective.
