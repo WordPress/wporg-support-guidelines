@@ -8,7 +8,7 @@ Accounts are set to be moderated when the poster has a pattern of behavior that 
 
 Flagging an account to be moderated is a cool-down tactic used to allow the account to be monitored while still permitting the poster to participate on the forums. It just means the poster’s behavior caught our attention in a slightly negative way, and we want to keep an eye on them.
 
-If this happens, please be patient. We review and approve all posts quickly, or edit them and reply, pointing out what’s wrong.
+If this happens, please be patient. We review and approve all posts as soon as possible, or edit them and reply, pointing out what’s wrong.
 
 If actions escalate, users will be banned. There’s no one specific behavior to point at for this, but essentially if the poster starts lashing out, calling people names, making accusations, emailing people nasty messages, or challenging the authority of the moderators, they will be banned.
 
