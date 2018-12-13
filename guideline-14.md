@@ -1,6 +1,6 @@
 ## Contacting the Moderators
 
-If a post needs moderator attention, use the tag `modlook`
+If a post needs moderator attention, use the tag `modlook` by hitting the “Report” button.
 
 If moderator help is needed in a different manner, the `#forums` channel is available in [slack](https://make.wordpress.org/chat/).
 
