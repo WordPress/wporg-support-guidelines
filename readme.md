@@ -25,12 +25,12 @@ The idea of creating a visually easy, and less wordy guideline was encouraged by
 [Introduction](https://github.com/clorith/wporg-support-guidelines/blob/master/introduction.md)
 
 1. [Warn About Adult Content](https://github.com/clorith/wporg-support-guidelines/blob/master/guideline-01.md)
-2. [Don't spam](https://github.com/clorith/wporg-support-guidelines/blob/master/guideline-02.md)
+2. [Do not spam](https://github.com/clorith/wporg-support-guidelines/blob/master/guideline-02.md)
 3. [Do Not Bump Posts](https://github.com/clorith/wporg-support-guidelines/blob/master/guideline-03.md)
 4. [Do Not Offer to Pay for Help](https://github.com/clorith/wporg-support-guidelines/blob/master/guideline-04.md)
 5. [Do Not Offer to Work For Hire](https://github.com/clorith/wporg-support-guidelines/blob/master/guideline-05.md)
 6. [Do Not Post About Commercial Products](https://github.com/clorith/wporg-support-guidelines/blob/master/guideline-06.md)
-7. [Do Not Open Multiple Accounts (Sockpuppets)](https://github.com/clorith/wporg-support-guidelines/blob/master/guideline-07.md)
+7. [Do Not Create Multiple Accounts (Sockpuppets)](https://github.com/clorith/wporg-support-guidelines/blob/master/guideline-07.md)
 8. [The Bad Stuff...](https://github.com/clorith/wporg-support-guidelines/blob/master/guideline-08.md)
 
 [faq](https://github.com/clorith/wporg-support-guidelines/blob/master/faq.md)
