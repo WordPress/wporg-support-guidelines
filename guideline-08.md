@@ -11,9 +11,8 @@ We need to keep the forums friendly, so, occasionally, topic content will be mod
 - Do not post spam and affiliate links, offensive posts, posts without content, or flames.
 - Do not post in all caps.
 - Do not ask for help regarding premium themes/plugins.
-- Do not abuse mentions, they are not a tool to get faster responses.
+- Do not abuse the `@<name>` mentions, they are not a tool to get faster responses.
 - Do not seek legal advice on the forums: We are not lawyers, and if we were we would then open our selves to liabilities.
-- Do not abuse the @ mention system in the forums. Users on this site can subscribe to a topic, using @ notifications for your replies in unnecessary and can become spammy and abusive. Please use it sparingly.
 
 Please note that this list is not exhaustive. Every post is judged on its own merits.
 
