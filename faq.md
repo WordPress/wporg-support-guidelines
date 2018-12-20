@@ -4,7 +4,14 @@ Every forums system is a little different.
 
 ## How do I create an account?
 In order to post or comment in this forum, you first need to have an account at WordPress.org. You can register at https://login.wordpress.org/register
-If you already have an account, then please bear in mind that we strongly don't want anyone to actively use more than one account in parallel (unless they have a really good reason to do it).
+If you already have an account, then please bear in mind that we strongly don't want anyone to actively use more than one account in parallel.
+
+## Multiple accounts
+Although our guidelines do not allow the use of multiple accounts, you are allowed one company account that owns plugins or themes on Wordpress.org, alongside your own personal account.
+The company account should only be the owner, and you should appoint individuals as the various roles used such as contributors, support representatives and similar.
+
+Please read [Using the Forums](https://developer.wordpress.org/plugins/wordpress-org/using-the-forums/) and [Special Roles and Capabilities](https://developer.wordpress.org/plugins/wordpress-org/special-user-roles-capabilities/) for further details.
+
 
 ## How do I find if my problem is already solved?
 
