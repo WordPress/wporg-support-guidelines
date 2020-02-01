@@ -8,6 +8,7 @@ We need to keep the forums friendly, so, occasionally, topic content will be mod
 - Do not post another person’s private information (job, gender, living situation, location, etc).
 - Do not ask for any kind of access in order to provide support, not even for plugins or themes.
 - Do not harass or abuse people. Do not go to their websites, do not pick out their home addresses, phone numbers, Twitter ID, Skype ID, Facebook, any social media accounts or ways to contact them and use it to ask for support. Only use contact methods explicitly given.
+- Do not abuse the 'Report this topic' or 'modlook' system.
 - Do not post spam and affiliate links, offensive posts, posts without content, or flames.
 - Do not post in all caps.
 - Do not ask for help regarding premium themes/plugins.
