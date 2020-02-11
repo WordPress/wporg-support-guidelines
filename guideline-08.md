@@ -5,7 +5,7 @@ Public links in plugin or theme support topics may only be posted if they meet o
 - The link is to the plugin or theme authors own website.
 - The link is to the plugin or theme authors own support website.
 - The link is posted by the plugin or theme author them selves to an external resource related to the topic.
-- The link is to documentation on the WordPress.org website
+- The link is to resources on the WordPress.org website
 
 ### Why is this being enforced?
 
