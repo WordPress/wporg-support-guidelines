@@ -3,7 +3,7 @@
 We need to keep the forums friendly, so, occasionally, topic content will be moderated. In severe cases, users may be blocked. This might mean anything from the light editing of some posts to complete removal of topics and deactivation of accounts. It should really go without saying, but the following are likely candidates for moderation or intervention
 
 - Do not post email addresses, ask others to post their email or solicit contacting people off of the forums.
-- Do not post login information, even test IDs and test passwords.
+- Do not post, offer, or ask for login information, even test IDs and test passwords.
 - Do not post simply to request feedback on their site.
 - Do not post another person’s private information (job, gender, living situation, location, etc).
 - Do not ask for any kind of access in order to provide support, not even for plugins or themes.
